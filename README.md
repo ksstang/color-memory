@@ -6,7 +6,7 @@ Flip cards to find matching pairs to score.
 
 ## Setup environment
 
-1. Setup environemnt and depenencies `https://reactnative.dev/docs/environment-setup`
+1. Setup environemnt and depenencies [https://reactnative.dev/docs/environment-setup](https://reactnative.dev/docs/environment-setup)
 2. `yarn install` to install project dependecies
 
 ## Running on iOS Simulator
